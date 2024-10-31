@@ -1,0 +1,11 @@
+com/omc/sensors_processing/SensorsProcessingApplication.class
+com/omc/sensors_processing/services/SensorIngestionService.class
+com/omc/sensors_processing/configuration/KafkaConsumerConfiguration.class
+com/omc/sensors_processing/interfaces/SensorRepository.class
+com/omc/sensors_processing/configuration/MongoConfiguration.class
+com/omc/sensors_processing/datatypes/ExtendedSensorData.class
+com/omc/sensors_processing/datatypes/Face.class
+com/omc/sensors_processing/services/SensorFaultDetectionService.class
+com/omc/sensors_processing/datatypes/SensorData.class
+com/omc/sensors_processing/services/SensorDeactivationService.class
+com/omc/sensors_processing/configuration/SensorDeserializer.class

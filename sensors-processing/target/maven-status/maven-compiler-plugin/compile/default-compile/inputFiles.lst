@@ -1,0 +1,11 @@
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/SensorsProcessingApplication.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/configuration/KafkaConsumerConfiguration.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/configuration/MongoConfiguration.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/configuration/SensorDeserializer.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/datatypes/ExtendedSensorData.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/datatypes/Face.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/datatypes/SensorData.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/interfaces/SensorRepository.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/services/SensorDeactivationService.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/services/SensorFaultDetectionService.java
+/Users/aditwito/Documents/omc/sensor-system/sensors-processing/src/main/java/com/omc/sensors_processing/services/SensorIngestionService.java
